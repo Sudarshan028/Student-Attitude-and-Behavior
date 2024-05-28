@@ -28,24 +28,43 @@ This project focuses on analyzing a dataset of student attitudes and behaviors t
 
 The dataset contains 235 entries and 19 columns. Each column represents a different aspect of student life and behavior. Key columns include:
 Certification Course: Whether the student has taken a certification course (Yes/No).
+
 Gender: Gender of the student (Male/Female).
+
 Department: Department of the student (BCA/BBA/Engineering/Science).
+
 Height(CM): Height of the student in centimeters.
+
 Weight(KG): Weight of the student in kilograms.
+
 10th Mark: Percentage marks obtained in 10th grade.
+
 12th Mark: Percentage marks obtained in 12th grade.
+
 college mark: Percentage marks obtained in college.
+
 hobbies: Hobbies of the student.
+
 daily studing time: Daily studying time of the student.
+
 prefer to study in: Preferred time of day to study.
+
 salary expectation: Salary expectation of the student after graduation.
+
 Do you like your degree?: Whether the student likes their degree (Yes/No).
+
 willingness to pursue a career based on their degree: Willingness to pursue a career based on their degree.
+
 social medai & video: Time spent on social media and video platforms.
+
 Travelling Time: Daily travelling time of the student.
+
 Stress Level: Stress level of the student.
+
 Financial Status: Financial status of the student.
+
 part-time job: Whether the student has a part-time job (Yes/No).
+
 ## Analysis and Insights
 
 ### Gender Distribution
@@ -204,7 +223,7 @@ pip install pandas numpy seaborn matplotlib
 
 ## Author
 
-[Your Name]
+Sudarshan
 
 ## License
 
